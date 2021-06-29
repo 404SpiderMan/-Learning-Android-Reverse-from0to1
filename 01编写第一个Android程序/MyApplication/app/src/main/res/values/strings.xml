@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">牛刀小试</string>
+    <string name="username">UserNmae:</string>
+    <string name="password">PassWord:</string>
+    <string name="usernametext">请输入UserNmae</string>
+    <string name="login">login</string>
+
+</resources>

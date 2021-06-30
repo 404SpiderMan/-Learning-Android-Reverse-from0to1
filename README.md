@@ -6,3 +6,13 @@
 
 #### 01编写第一个Android程序:https://blog.csdn.net/qq_41179280/article/details/118335637
 #### 02编写一个简简单单的注册程序:https://blog.csdn.net/qq_41179280/article/details/118342410
+
+                                                                         
+                                                                         
+```javascript
+console.log("公众号:虫术")
+console.log("wx:spiderskill")
+欢迎关注！探讨爬虫逆向及搬砖摸鱼技巧！
+```
+
+![扫码关注](https://raw.githubusercontent.com/404SpiderMan/Learning-Android-Reverse-from0to1/main/biz.jpg)
